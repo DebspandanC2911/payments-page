@@ -1,5 +1,3 @@
-Sure, here's a basic README template for the GitHub repository at the provided link:
-
 ---
 
 # Payments Page
